@@ -1,0 +1,27 @@
+Com a linguagem PERL os ddos são tratados em três tipo fundamentais.
+Escalres, Lineares e Hashes.
+Nesses exercícios em perl, demonstro, os tipos de dados fundamentais.
+
+Ecalares:
+Uma váriável escalar assume um valor definido como um ponto em um plano.
+
+Esse valor pode ser uma corrente de caracteres formando uma string.
+Temos no arquivo string.pl um exemplo prático desta aplicação 
+em uma variável ecalar.
+
+Pode ser uma valor representando um número inteiro.
+No programa escalar.pl demonstro o uso de uma variável escalar pra
+armazenar o valor de um número inteiro.
+
+Pode também representar um valor fracionário.
+No programa ecalar-complex.pl demonstro o uso de uma variável escalar
+para armazenamento de um valor fracionário de ponto flutuante.
+
+Lineares(arrays):
+O programa linear,pl demonstra a criação e uso de uma variável do tipo linear.
+Esta por sua vez é uma matriz matemática.
+
+Hashes:
+O tipo de dados hash atua como uma espécie de matriz de dados, assim
+ele pode ser usado para representar dados e índices respectivos.
+No programa hash.pl, demonstro seu uso e funcionalidade!
